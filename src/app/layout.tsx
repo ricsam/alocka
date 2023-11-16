@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     default: 'Alocka - Engineered potatoes',
   },
   description:
-    'Most potatoes grow bad, but and are hard to use. We make the opposite trade-off, and hope you don’t get a bad potato.',
+    'Most potatoes grow bad, and are hard to use. We make the opposite trade-off, and hope you don’t get a bad potato.',
 }
 
 const inter = Inter({
